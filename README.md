@@ -1,1 +1,1 @@
-# Bayesian_Network__for_Heart_Disease_Diagnosis
+# Diabetes_Genetic_Disease_Prediction_Using_Bayesian_Networks
